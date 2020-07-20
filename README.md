@@ -1,2 +1,2 @@
 # CheatSheet
-<h3>A guide written in CherryTree, recordings of common exploits, and tools, enumeration methods often used wile solving HTB Machines<h3>
+<h2>A guide written in CherryTree, recordings of common exploits, tools, enumeration methods often used while solving HTB Machines<h2>
