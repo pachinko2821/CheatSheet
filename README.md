@@ -4,7 +4,7 @@
 <h3>To-Do</h3>
 • Enumeration > HTTP > {Windows IIS, NGINX}<br>
 • Password Attacks > Bruteforce > {medusa, hydra}<br>
-• Password Attacks > Generating Wordlist > {Crunch, CUPP, CeWL}<br>
+• Password Attacks > Generating Wordlist > {Crunch, CUPP}<br>
 • Buffer Overflows<br>
 • Webapps > {SQLi > NoSQLi, SSRF, CSRF, Deserialization}<br>
 • Post Exploitation > Windows > PowerView (images)<br>
