@@ -10,4 +10,3 @@
 • Post Exploitation > Windows > PowerView (images)<br>
 • Post Exploitation > Windows > Post-Compromise AD Attacks > Golden/Silver Ticket Attacks<br>
 • Enumeration > POP3<br>
-• Shells > Bind > evil-winrm<br>
