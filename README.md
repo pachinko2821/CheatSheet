@@ -1,8 +1,8 @@
 # CheatSheet
 
-##A guide written in CherryTree, recordings of common exploits, tools, enumeration methods often used while solving HTB Machines
+## A guide written in CherryTree, recordings of common exploits, tools, enumeration methods often used while solving HTB Machines
 
-###To-Do
+### To-Do
 * Enumeration > HTTP > {Windows IIS, NGINX}
 * Password Attacks > Generating Wordlist > {Crunch, CUPP}
 * Buffer Overflows
