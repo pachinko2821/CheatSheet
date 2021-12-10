@@ -8,3 +8,4 @@
 * Post Exploitation > Windows (ongoing) 
 * More Enumeration
 * Move from CherryTree to Obsidian
+* Update OWASP top 10 to 2021 version
